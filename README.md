@@ -1,6 +1,6 @@
 # Test your reaction speed
 
-<img src="https://github.com/RNOVOSELOV/flutter_push/blob/main/resources/first.gif" width="600" height="1298" />
+<img src="https://github.com/RNOVOSELOV/flutter_push/blob/main/resources/first.gif" width="60" height="130" />
 
 ## О проекте
 
