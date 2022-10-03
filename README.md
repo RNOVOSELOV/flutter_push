@@ -1,16 +1,18 @@
-# flutter_push
+# Test your reaction speed
+<!--
+<image src="https://github.com/khasang/SmartForecast/blob/main-develop/Auxiliary_files/Google_Play/banner_r.png?raw=true" height=400 alt="Screenshots"/>
 
-Get your reaction value.
+[Видео](http://www.youtube.com/watch?v=WA4Y93X6yL8)
 
-## Getting Started
+[Web-page](http://khasang.github.io/SmartForecast/)
+-->
 
-This project is a starting point for a Flutter application.
+## О проекте
 
-A few resources to get you started if this is your first Flutter project:
+"Push the button" - неимоверно простое в использовании бесплатное приложение для тестирования скорости реагции.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Развитие проекта
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Версия 1.0
+
+- Реализован минимальный интерфейс и базовая логика приложения.
