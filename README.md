@@ -1,7 +1,8 @@
 # Test your reaction speed
-<!--
-<image src="https://github.com/khasang/SmartForecast/blob/main-develop/Auxiliary_files/Google_Play/banner_r.png?raw=true" height=400 alt="Screenshots"/>
 
+
+<image src="https://github.com/RNOVOSELOV/flutter_push/resources/first.gif?raw=true" height=400 alt="Screenshots"/>
+<!--
 [Видео](http://www.youtube.com/watch?v=WA4Y93X6yL8)
 
 [Web-page](http://khasang.github.io/SmartForecast/)
